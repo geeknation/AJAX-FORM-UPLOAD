@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>New Web Project</title>
+		<title>AJAX FORM UPLOAD</title>
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css">
 		<style type="text/css">
 			.wrapper {
