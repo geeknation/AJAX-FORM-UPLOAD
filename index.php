@@ -15,6 +15,7 @@
 			}
 			#form_holder {
 				padding: 1%;
+				
 			}
 			#statustxt {
 				margin: 0 auto;
